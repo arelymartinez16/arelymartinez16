@@ -9,7 +9,7 @@
 - 💡 Proficient in programming languages: JavaScript, Python, Java.
 - 🌐 Front-end development: HTML, CSS, JavaScript, React.js, WordPress.
 - 🚀 Back-end development: Node.js, Express.js.
-- 🌱 Databases: PostgreSQL.
+- 🌱 Databases: PostgreSQL, Supabase.
 
 ## Why Web Development?
 - 🌟 Web development combines my love for coding and creativity.
