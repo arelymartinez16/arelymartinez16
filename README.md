@@ -21,7 +21,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arelymartinez16&show_icons=true&count_private=true)](https://github.com/arelymartinez16)
 
 ## Personal Website
-- 🌐 Visit my personal website: [Personal Website](https://personal-website-arely-m.arelymartinez.repl.co/index.html)
+- 🌐 Visit my personal website: [Personal Website](https://arelymg.live/)
 
 ## Get in Touch
 
