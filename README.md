@@ -3,7 +3,7 @@
 ## About Me
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
-- 🎓 I am a sophomore at Lehman College studying Computer Science.
+- 🎓 I am a rising junior at Lehman College studying Computer Science.
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
 - 💡 Proficient in programming languages: JavaScript, Python, Java.
@@ -26,7 +26,7 @@
 ## Get in Touch
 
 - 📫 You can reach me via email at arelymartinez741@gmail.com.
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arely-martinez-garcia-053925219/).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arely-martinez-garcia16/).
 
 <!--
 **arelymartinez16/arelymartinez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
