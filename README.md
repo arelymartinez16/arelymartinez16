@@ -3,7 +3,7 @@
 ## About Me
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
-- 🎓 I am a rising junior at Lehman College studying Computer Science.
+- 🎓 I am a junior at Lehman College studying Computer Science.
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
 - 💡 Proficient in programming languages: JavaScript, Python, Java.
