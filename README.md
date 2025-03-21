@@ -14,7 +14,7 @@
 - 🚀 Excited about the rapid advancements in web technologies and the endless possibilities they offer.
 - 🌐 Committed to making technology more accessible and user-centered.
 
-## 🔧 My Developer Toolkit
+## My Developer Toolkit 🔧
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,postgres,postman,py,supabase,tailwind,wordpress)
 
 ## My GitHub Stats
