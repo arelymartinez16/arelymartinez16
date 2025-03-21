@@ -6,16 +6,15 @@
 - 🎓 I am a junior at Lehman College studying Computer Science.
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
-- 💡 Proficient in programming languages: JavaScript, Python, Java.
-- 🌐 Front-end development: HTML, CSS, JavaScript, React.js, WordPress.
-- 🚀 Back-end development: Node.js, Express.js.
-- 🌱 Databases: PostgreSQL, Supabase.
 
 ## Why Web Development?
 - 🌟 Web development combines my love for coding and creativity.
 - 💡 I enjoy creating interactive and user-friendly websites that make a difference in people's lives.
 - 🚀 Excited about the rapid advancements in web technologies and the endless possibilities they offer.
 - 🌐 Committed to making technology more accessible and user-centered.
+
+## 🔧 My Developer Toolkit
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,postgres,postman,py,supabase,tailwind,wordpress)
 
 ## My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arelymartinez16&show_icons=true&count_private=true)](https://github.com/arelymartinez16)
