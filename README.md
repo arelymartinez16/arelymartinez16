@@ -4,6 +4,7 @@
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
 - 🎓 I am a junior at Lehman College studying Computer Science.
+- 💼 Incoming TechStart Intern @ Liberty Mutual Insurance
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
 
