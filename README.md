@@ -4,7 +4,7 @@
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
 - 🎓 I am a junior at Lehman College studying Computer Science.
-- 💼 Incoming TechStart Intern @ Liberty Mutual Insurance.
+- 💼 Incoming Software Engineer Intern @ Liberty Mutual Insurance.
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
 
@@ -25,8 +25,22 @@
 
 ## Get in Touch
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arelymartinez741@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arely-martinez-garcia16/)
+
+<!--
+<a href="mailto:arelymartinez741@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arely-martinez-garcia16/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a> -->
+
+<!--
 - 📫 You can reach me via email at arelymartinez741@gmail.com.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/arely-martinez-garcia16/).
+-->
 
 <!--
 **arelymartinez16/arelymartinez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
