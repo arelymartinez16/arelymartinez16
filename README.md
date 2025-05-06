@@ -18,7 +18,8 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,postgres,postman,py,supabase,tailwind,wordpress)
 
 ## My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arelymartinez16&show_icons=true&count_private=true)](https://github.com/arelymartinez16)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arelymartinez16&show_icons=true&count_private=true&layout=compact)](https://github.com/arelymartinez16)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arelymartinez16&count_private=true&layout=compact)
 
 ## Personal Website
 - 🌐 Visit my personal website: [Personal Website](https://arelymg.live/)
