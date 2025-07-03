@@ -3,7 +3,7 @@
 ## About Me
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
-- 🎓 I am a rising senipr at Lehman College studying Computer Science.
+- 🎓 I am a rising senior at Lehman College studying Computer Science.
 - 💼 Software Engineer Intern @ Liberty Mutual Insurance.
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
