@@ -4,7 +4,7 @@
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
 - 🎓 I am a senior at Lehman College studying Computer Science.
-- 💼 Prev Software Engineer Intern @ Liberty Mutual Insurance.
+- 💼 Current Software Engineer Intern @ ACLU, Prev Software Engineer Intern @ Liberty Mutual Insurance.
 - 💻 Aspiring software engineer with a focus on web development.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
 
