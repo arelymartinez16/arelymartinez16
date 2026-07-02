@@ -3,9 +3,8 @@
 ## About Me
 - 👋 Hi, I'm Arely :)
 - 👩🏻 Pronouns: she/her
-- 🎓 I am a senior at Lehman College studying Computer Science.
-- 💼 Current Software Engineer Intern @ ACLU, Prev Software Engineer Intern @ Liberty Mutual Insurance.
-- 💻 Aspiring software engineer with a focus on web development.
+- 🎓 Lehman College alumna.
+- 💼 Associate Software Engineer @ Deloitte, Prev Software Engineer Intern @ the ACLU, Liberty Mutual Insurance, Brooklyn Navy Yard, BlackFacts.com.
 - 🚀 Constantly learning and exploring new technologies to stay up-to-date.
 
 ## Why Web Development?
